@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Surreal Ideas]]></title>
         <description><![CDATA[Surreal Ideas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/surrealideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 16:28:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 16:31:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/surrealideas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome To Surreal Ideas</p>]]></description>
-            <link>undefinedwelcome-to-surreal-ideas/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2df90f-30a4-4267-87a8-538e7223cf37.png">]]></description>
+            <link>https://thegrid.ai/surrealideas/welcome-to-surreal-ideas/index.html</link>
             <guid isPermaLink="false">02ccfa84-bc7b-4d49-ab81-b8f78244a89c</guid>
-            <pubDate>Sun, 01 May 2016 16:27:58 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 16:31:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
