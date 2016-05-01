@@ -1,0 +1,28 @@
+name: Surreal Ideas
+favicon: null
+layout_spectrum: 0.8402174666989595
+typography_spectrum: 0.2534481924958527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6322537311352789
+  lightness: 0.49980366858653724
+  saturation: 0.5974333302583545
+  rhythmicContrast: 0.7529455488547683
+purpose: []
